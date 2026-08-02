@@ -1,4 +1,4 @@
-### Q9. Write a program to check if entered year is leap or not ?
+### Q10. Write a program to check if entered year is leap or not ?
 
 ## check the leap year :
 def leap_year(year):
