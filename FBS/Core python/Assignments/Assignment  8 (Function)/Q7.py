@@ -1,4 +1,4 @@
-### Q7.  W rite a program to find Sum of digit of a numbers ?
+### Q7. Write a program to find Sum of digit of a numbers ?
 
 ## calculate the sum of digit
 def sum_digit(num):
