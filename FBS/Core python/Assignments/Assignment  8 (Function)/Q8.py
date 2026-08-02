@@ -1,4 +1,4 @@
-### Q8.  W rite a program to find reverse of a numbers ?
+### Q8. Write a program to find reverse of a numbers ?
 
 ## calculate the reverse number
 def reverse_number(num):
