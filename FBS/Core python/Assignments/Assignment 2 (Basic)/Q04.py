@@ -1,4 +1,4 @@
-#### Q4.WAP to calculate area of triangle and rectangle.
+#### Q4.Write a program to calculate area of triangle and rectangle.
 
 #lets take input as base and height of triangle
 base=float(input("Enter base of triangle:"))
