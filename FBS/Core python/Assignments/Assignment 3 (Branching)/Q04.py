@@ -1,4 +1,4 @@
-# Program to check whether a triangle is valid or not using sides
+### Q4. Program to check whether a triangle is valid or not using sides
 
 # Input the three sides from the user
 side1 = float(input("Enter first side: "))
