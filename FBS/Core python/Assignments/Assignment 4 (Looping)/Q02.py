@@ -1,4 +1,4 @@
-#### Q1. Write a program to print all odd numbers until n ?
+#### Q2. Write a program to print all odd numbers until n ?
 
 ## input from user all odd numbers until n
 n= int(input("Enter the value of n:"))
