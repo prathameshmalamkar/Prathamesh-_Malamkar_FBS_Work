@@ -1,4 +1,4 @@
-### Q.4 Write a program to enter P,T,R and calculate simple interest ?
+### Q4. Write a program to enter P,T,R and calculate simple interest ?
 
 ## The perform of P,T,R to  calculate of Simple Interest
 
