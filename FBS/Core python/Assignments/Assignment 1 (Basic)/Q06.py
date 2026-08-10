@@ -1,4 +1,4 @@
-### Q.6 Write a program to input two angles from user and find third angle of the triagle ?
+### Q6. Write a program to input two angles from user and find third angle of the triagle ?
 
 ## The perform of third angle of triangle
 
