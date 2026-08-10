@@ -1,4 +1,4 @@
-#### Q1. Write a program to print first n prime numbers  ?
+#### Q6. Write a program to print first n prime numbers  ?
 
 ## input as a user 
 n = int(input("Enter how many prime number:"))
