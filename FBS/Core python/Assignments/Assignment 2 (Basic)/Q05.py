@@ -1,4 +1,4 @@
-#### Q5.WAP to calculate selling price of book based on cost price and discount.
+#### Q5.Write a program  to calculate selling price of book based on cost price and discount.
 
 #lets take input as cost price and discount
 cost_price=float(input("Enter the cost price of the book:"))
