@@ -1,4 +1,4 @@
-#### Q.5. print following pattern:
+#### Q5. print following pattern:
 ## e.
 #         * 
 #       * * * 
