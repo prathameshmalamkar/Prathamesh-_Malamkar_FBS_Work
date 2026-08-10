@@ -1,4 +1,4 @@
-#### Q3. Write a program to print factorial of a number  ?
+#### Q4. Write a program to print factorial of a number  ?
 
 ## input from user of factorial number
 
