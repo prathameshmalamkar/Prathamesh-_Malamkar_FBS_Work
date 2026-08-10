@@ -1,4 +1,4 @@
-#### Q1. Write a program to print prime numbers between 1 to 100 ?
+#### Q5. Write a program to print prime numbers between 1 to 100 ?
 
 ## input as a user 
 for i in range (1, 101):
