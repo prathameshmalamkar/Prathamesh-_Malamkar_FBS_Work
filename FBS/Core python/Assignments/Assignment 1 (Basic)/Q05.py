@@ -1,4 +1,4 @@
-### Q.5 Write a program to enter P,T,R and calculate Compound Interest
+### Q5. Write a program to enter P,T,R and calculate Compound Interest
 
 ##  The perform of P,T,R to  calculate of Compound Interest
 
