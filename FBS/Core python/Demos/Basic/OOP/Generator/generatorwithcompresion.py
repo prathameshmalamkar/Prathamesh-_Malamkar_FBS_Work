@@ -1,8 +1,0 @@
-list=(i for i in range(100,201))
-print(list)
-print(next(list))
-print(next(list))
-print(next(list))
-print(next(list))
-print(next(list))
-print(next(list))
